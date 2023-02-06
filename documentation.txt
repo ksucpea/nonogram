@@ -1,0 +1,16 @@
+Nonogram by George Mills
+
+What the program does:
+Nonograms are logic puzzles, first created by Japanese graphic designer Non Ishida.
+The aim of the game is to fill in boxes on a grid to create an image.
+Typically the image is pixel art but it can also just be random boxes, however this game only has pixel art.
+Difficulty is determined by the puzzle size, with 10x10 being the easiest and up to 45x45 being the hardest.
+The boxes to fill are indicated by hints on top of the columns/the side of the rows of the grid.
+Every puzzle can be completed logically without needing to guess or use hints.
+
+How to run:
+Put Nonogram folder in BasicGraphics/src folder
+Run the main method in Nonogram.java
+
+Other notes:
+Press S to automatically solve the puzzles if you don't want to solve them yourself
